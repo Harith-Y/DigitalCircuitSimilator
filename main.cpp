@@ -290,7 +290,7 @@ int main() {
                 }
                 break;
             }
-
+            
             case 7: { // View IC pin states
                 if (icList.empty()) {
                     cout << "No ICs available to view.\n";
